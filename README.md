@@ -2,6 +2,8 @@
 
 Nuxt 4 / Vue 3 JavaScript frontend for online game administration. The Go API is in `../em-admin-backend`.
 
+![Uploading image.png…]()
+
 ## Run
 
 ```bash
